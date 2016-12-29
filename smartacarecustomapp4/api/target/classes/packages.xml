@@ -1,0 +1,12 @@
+<org.openmrs.module.emrapi.metadata.MetadataPackagesConfig>
+    <packages>
+       
+        <org.openmrs.module.emrapi.metadata.MetadataPackageConfig>
+            <filenameBase>UTH_Concepts</filenameBase>
+            <groupUuid>d7c691a8-c3ee-461c-a284-ccd0729e25f4</groupUuid>
+            <version>1</version>
+            <importMode>MIRROR</importMode>
+        </org.openmrs.module.emrapi.metadata.MetadataPackageConfig>
+
+    </packages>
+</org.openmrs.module.emrapi.metadata.MetadataPackagesConfig>
